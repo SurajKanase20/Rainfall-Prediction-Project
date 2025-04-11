@@ -6,7 +6,6 @@ import json
 import datetime
 from streamlit_lottie import st_lottie
 import plotly.express as px
-from final_rf import RainPredictionSystem
 
 # Set Streamlit page configuration
 st.set_page_config(page_title="Rainfall Prediction", layout="wide")
