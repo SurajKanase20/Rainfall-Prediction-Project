@@ -1,0 +1,12 @@
+﻿pandas
+numpy
+joblib
+gspread
+gspread-dataframe
+scikit-learn
+streamlit
+streamlit-lottie
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+oauth2client
